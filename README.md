@@ -7,3 +7,5 @@ shown in our live project.
 3. No, it would not be ideal to use because there's most likely many components to a messaging feature that could be tested
 individually by unit tests but not as a whole.
 4. Yes, this is an isolated feature that would be simple to test with a certain input. 
+
+Screenshots here: https://github.com/zsiyed/Lab8_Starter/tree/main/__tests__ 
